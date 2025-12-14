@@ -80,15 +80,3 @@ Key reproduced results:
 
 These results closely match the findings reported in the original paper.
 
----
-
-## 📂 Project Structure
-
-```text
-├── main_simulation.m        % Main simulation script
-├── channel_model.m          % Channel generation
-├── beamforming_update.m     % BS beamforming optimization
-├── ris_update.m             % RIS phase & gain updates
-├── plot_results.m           % SE / EE visualization
-├── figures/                 % Generated figures
-└── README.md
